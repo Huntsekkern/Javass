@@ -1,5 +1,5 @@
 # Javass
-First Year Java Project @ EPFL (CS_108 course): Jass Game
+First Year Java Project @ EPFL ([CS-108 course](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108)): Jass Game
 
 by Raoul Gerber
 
